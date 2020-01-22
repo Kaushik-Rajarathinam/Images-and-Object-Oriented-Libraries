@@ -1,3 +1,7 @@
+# 1.4.1 Class with 5 Attributes
+
+# By Kaushik Rajarathinam
+
 import time, random
 hats = ["panda", "panda king", "red mask", "bandit", "afro", "lord panda",'soldier','hard hat','purple cap','santa hat','Tron']
 bodies = ["basket", 'bloodharvest', 'demonic wings', 'robo wings', 'diablo wings', 'baby panda','angelic wings']
