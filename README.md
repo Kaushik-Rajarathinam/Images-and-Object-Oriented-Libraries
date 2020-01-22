@@ -1,7 +1,7 @@
 # Images-and-Object-Oriented-Libraries
 Contains all works by Kaushik Rajarathinam for each section.
 ```diff
-- Actual work!
+- 1.4.1 Released!
 ```
 All sections from 1.4.1 - Images-and-Object-Oriented-Libraries(2.7)
 
